@@ -1,0 +1,17 @@
+{
+  "name": "orcodegenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jimp": "^1.6.0",
+    "qrcode": "^1.5.4",
+    "qrcode-reader": "^1.0.4"
+  }
+}
